@@ -3,7 +3,7 @@ CHAATHAN — enterprise subdomain takeover scanner. Combines CT scraping, passiv
 
 #dive deep
 
-# CHAATHAN v2.0
+# CHAATHAN v1
 Advanced Subdomain Takeover Detection Framework
 
 CHAATHAN is an enterprise-grade offensive security framework for large-scale subdomain enumeration, active verification, takeover fingerprint matching, cloud misconfiguration discovery and automatic professional reporting.
