@@ -164,7 +164,7 @@ No external pip packages required! ✨
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/chaathan.git
+git clone https://github.com/lawcy0fficial/CHAATHAN.git
 cd chaathan
 
 # Make executable
