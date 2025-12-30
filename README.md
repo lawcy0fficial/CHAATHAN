@@ -1,4 +1,4 @@
-# CHAATHAN v4.0 Enterprise
+# CHAATHAN v1.0 Enterprise
 
 ## Advanced Subdomain Takeover Detection Framework
 
